@@ -1,5 +1,8 @@
 _repo: Bottoms-Up-An-Application-of-the-Slapstick-to-Satire_66775
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66775-h/images/cover.jpg
 creator:
   author:
     agent_name: Nathan, George Jean
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9219
     wikipedia: https://en.wikipedia.org/wiki/George_Jean_Nathan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66775#Bottoms-Up-An-Application-of-the-Slapstick-to-Satire
 gutenberg_issued: '2021-11-20'
 identifiers:
   gutenberg: '66775'
